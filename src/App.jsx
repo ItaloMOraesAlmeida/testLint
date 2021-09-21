@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       Hello World
-      <h1>New line in project</h1>
+      <h1>New line in project 1</h1>
     </div>
   );
 }
