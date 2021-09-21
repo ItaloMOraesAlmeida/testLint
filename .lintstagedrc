@@ -1,0 +1,7 @@
+{
+    "*.{js,jsx}": [
+        "prettier --write --ignore-unknown",
+      "eslint --ext js,jsx --fix",
+      "cross-env CI=true yarn test --bail --findRelatedTests"
+    ]
+}
