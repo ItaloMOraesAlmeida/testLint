@@ -80,7 +80,7 @@ module.exports = {
     scope: "\nIndicate the scope of this change (optional):",
     customScope: "Specify the scope of this change:",
     subject: "Write a brife and imperative description of the change:\n",
-    body: 'Provide a more detailed description of the change (optional). Use "|" to break a new line:\n',
+    body: 'Provide a more detailed description of the change (optional). Use ">" to break a new line:\n',
     breaking: "List any break changes (optional):\n",
     footer:
       "List any problems (issues) closed for this change (optional). For example: #31, #34:\n",
