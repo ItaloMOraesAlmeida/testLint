@@ -1,42 +1,44 @@
-# Pull Request Template
+# Novo Pull Request
 
-## Description
+## Descrição
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+Inclua um resumo da mudança e qual problema foi corrigido. Inclua também a motivação e o contexto relevantes. Liste todas as dependências necessárias para essa mudança.
 
-Fixes # (issue)
+## Correções/Edições # (Fixes/Issue)
 
-## Type of change
+->
 
-Please delete options that are not relevant.
+## Tipo de Mudança
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
+Exclua as opções que não são relevantes ou adicione novas.
 
-## How Has This Been Tested?
+- [ ] Novo recurso (mudança ininterrupta que adiciona funcionalidade)
+- [ ] Correção de bug (alteração ininterrupta que corrige um problema)
+- [ ] Quebrando a mudança (correção ou recurso que faria com que a funcionalidade existente não funcionasse como esperado)
+- [ ] Esta mudança requer uma atualização de documentação
 
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
+## Como isso foi testado?
 
-- [ ] Test A
-- [ ] Test B
+Descreva os testes que você executou para verificar suas alterações. Forneça instruções para que possamos reproduzir. Liste também todos os detalhes relevantes para sua configuração de teste
 
-**Test Configuration**:
+- [ ] Teste A
+- [ ] Teste B
 
-- Firmware version:
-- Hardware:
-- Toolchain:
-- SDK:
+**Configuração de Teste**:
 
-## Checklist:
+- Versão do firmware (Biblioteca):
+- Hardware (Opcional):
+- Conjunto de ferramentas:
+- SDK (Opcional):
 
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] Any dependent changes have been merged and published in downstream modules
-- [ ] I have checked my code and corrected any misspellings
+## Checklist (Opcional):
+
+- [ ] Meu código segue as diretrizes de estilo deste projeto
+- [ ] Eu fiz uma autoavaliação do meu próprio código
+- [ ] Comentei meu código, especialmente em áreas difíceis de entender
+- [ ] Eu fiz as alterações correspondentes na documentação
+- [ ] Minhas mudanças não geram novos avisos
+- [ ] Eu adicionei testes que provam que minha correção é eficaz ou que meu recurso funciona
+- [ ] Testes de unidade novos e existentes são aprovados localmente com minhas alterações
+- [ ] Todas as alterações dependentes foram mescladas e publicadas nos módulos downstream
+- [ ] Eu verifiquei meu código e corrigi todos os erros ortográficos
