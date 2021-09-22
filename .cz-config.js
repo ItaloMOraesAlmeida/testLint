@@ -91,5 +91,5 @@ module.exports = {
   allowBreakingChanges: ["feat", "fix"],
 
   subjectLimit: 80,
-  breaklineChar: "|",
+  breaklineChar: ">",
 };
